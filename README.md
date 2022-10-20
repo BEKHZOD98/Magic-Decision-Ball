@@ -1,4 +1,4 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![Bekhzod98 Banner](docImage/sw1.jpeg)
 
 # Magic Decision Ball
 
